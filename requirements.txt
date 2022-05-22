@@ -1,0 +1,6 @@
+streamlit~=1.8.0
+pandas~=1.4.1
+numpy~=1.22.3
+
+clicks~=0.0.47
+click==8
